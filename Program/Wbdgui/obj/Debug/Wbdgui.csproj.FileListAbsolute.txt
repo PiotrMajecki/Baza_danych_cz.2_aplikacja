@@ -1,0 +1,39 @@
+C:\Users\Mateusz\Desktop\studia\wbdgui\Wbdgui\Wbdgui\bin\Debug\Wbdgui.exe.config
+C:\Users\Mateusz\Desktop\studia\wbdgui\Wbdgui\Wbdgui\bin\Debug\Wbdgui.exe
+C:\Users\Mateusz\Desktop\studia\wbdgui\Wbdgui\Wbdgui\bin\Debug\Wbdgui.pdb
+C:\Users\Mateusz\Desktop\studia\wbdgui\Wbdgui\Wbdgui\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Mateusz\Desktop\studia\wbdgui\Wbdgui\Wbdgui\obj\Debug\Wbdgui.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\studia\wbdgui\Wbdgui\Wbdgui\obj\Debug\Wbdgui.Form1.resources
+C:\Users\Mateusz\Desktop\studia\wbdgui\Wbdgui\Wbdgui\obj\Debug\Wbdgui.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\studia\wbdgui\Wbdgui\Wbdgui\obj\Debug\Wbdgui.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\studia\wbdgui\Wbdgui\Wbdgui\obj\Debug\Wbdgui.csproj.CopyComplete
+C:\Users\Mateusz\Desktop\studia\wbdgui\Wbdgui\Wbdgui\obj\Debug\Wbdgui.exe
+C:\Users\Mateusz\Desktop\studia\wbdgui\Wbdgui\Wbdgui\obj\Debug\Wbdgui.pdb
+C:\Users\Mateusz\Desktop\studia\wbdgui\Wbdgui\Wbdgui\obj\Debug\Wbdgui.Form2.resources
+C:\Users\Mateusz\Desktop\studia\wbdgui\Wbdgui\Wbdgui\obj\Debug\Wbdgui.Form3.resources
+C:\Users\01133460\Desktop\WBD cz.2\Wbdgui\Wbdgui\bin\Debug\Wbdgui.exe.config
+C:\Users\01133460\Desktop\WBD cz.2\Wbdgui\Wbdgui\bin\Debug\Wbdgui.exe
+C:\Users\01133460\Desktop\WBD cz.2\Wbdgui\Wbdgui\bin\Debug\Wbdgui.pdb
+C:\Users\01133460\Desktop\WBD cz.2\Wbdgui\Wbdgui\bin\Debug\Oracle.DataAccess.dll
+C:\Users\01133460\Desktop\WBD cz.2\Wbdgui\Wbdgui\obj\Debug\Wbdgui.csprojAssemblyReference.cache
+C:\Users\01133460\Desktop\WBD cz.2\Wbdgui\Wbdgui\obj\Debug\Wbdgui.Form1.resources
+C:\Users\01133460\Desktop\WBD cz.2\Wbdgui\Wbdgui\obj\Debug\Wbdgui.Form2.resources
+C:\Users\01133460\Desktop\WBD cz.2\Wbdgui\Wbdgui\obj\Debug\Wbdgui.Form3.resources
+C:\Users\01133460\Desktop\WBD cz.2\Wbdgui\Wbdgui\obj\Debug\Wbdgui.Properties.Resources.resources
+C:\Users\01133460\Desktop\WBD cz.2\Wbdgui\Wbdgui\obj\Debug\Wbdgui.csproj.GenerateResource.cache
+C:\Users\01133460\Desktop\WBD cz.2\Wbdgui\Wbdgui\obj\Debug\Wbdgui.csproj.CopyComplete
+C:\Users\01133460\Desktop\WBD cz.2\Wbdgui\Wbdgui\obj\Debug\Wbdgui.exe
+C:\Users\01133460\Desktop\WBD cz.2\Wbdgui\Wbdgui\obj\Debug\Wbdgui.pdb
+C:\Users\01133460\Desktop\Semestr 5\6. Wprowadzenie do Baz Danch\2. Projekty\Część 2 (.01)\Program\Wbdgui\bin\Debug\Wbdgui.exe.config
+C:\Users\01133460\Desktop\Semestr 5\6. Wprowadzenie do Baz Danch\2. Projekty\Część 2 (.01)\Program\Wbdgui\bin\Debug\Wbdgui.exe
+C:\Users\01133460\Desktop\Semestr 5\6. Wprowadzenie do Baz Danch\2. Projekty\Część 2 (.01)\Program\Wbdgui\bin\Debug\Wbdgui.pdb
+C:\Users\01133460\Desktop\Semestr 5\6. Wprowadzenie do Baz Danch\2. Projekty\Część 2 (.01)\Program\Wbdgui\bin\Debug\Oracle.DataAccess.dll
+C:\Users\01133460\Desktop\Semestr 5\6. Wprowadzenie do Baz Danch\2. Projekty\Część 2 (.01)\Program\Wbdgui\obj\Debug\Wbdgui.csprojAssemblyReference.cache
+C:\Users\01133460\Desktop\Semestr 5\6. Wprowadzenie do Baz Danch\2. Projekty\Część 2 (.01)\Program\Wbdgui\obj\Debug\Wbdgui.Form1.resources
+C:\Users\01133460\Desktop\Semestr 5\6. Wprowadzenie do Baz Danch\2. Projekty\Część 2 (.01)\Program\Wbdgui\obj\Debug\Wbdgui.Form2.resources
+C:\Users\01133460\Desktop\Semestr 5\6. Wprowadzenie do Baz Danch\2. Projekty\Część 2 (.01)\Program\Wbdgui\obj\Debug\Wbdgui.Form3.resources
+C:\Users\01133460\Desktop\Semestr 5\6. Wprowadzenie do Baz Danch\2. Projekty\Część 2 (.01)\Program\Wbdgui\obj\Debug\Wbdgui.Properties.Resources.resources
+C:\Users\01133460\Desktop\Semestr 5\6. Wprowadzenie do Baz Danch\2. Projekty\Część 2 (.01)\Program\Wbdgui\obj\Debug\Wbdgui.csproj.GenerateResource.cache
+C:\Users\01133460\Desktop\Semestr 5\6. Wprowadzenie do Baz Danch\2. Projekty\Część 2 (.01)\Program\Wbdgui\obj\Debug\Wbdgui.csproj.CopyComplete
+C:\Users\01133460\Desktop\Semestr 5\6. Wprowadzenie do Baz Danch\2. Projekty\Część 2 (.01)\Program\Wbdgui\obj\Debug\Wbdgui.exe
+C:\Users\01133460\Desktop\Semestr 5\6. Wprowadzenie do Baz Danch\2. Projekty\Część 2 (.01)\Program\Wbdgui\obj\Debug\Wbdgui.pdb
